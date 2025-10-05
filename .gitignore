@@ -1,0 +1,29 @@
+# Archivos de Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos temporales
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+.conda/
+*.egg-info/
+
+# Archivos de configuración de JupyterLab
+.jupyter/
+.lab/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Salidas grandes de notebooks (opcional, si no quieres subir resultados)
+# *.ipynb
