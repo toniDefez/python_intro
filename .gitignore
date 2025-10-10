@@ -27,3 +27,9 @@ Thumbs.db
 
 # Salidas grandes de notebooks (opcional, si no quieres subir resultados)
 # *.ipynb
+
+# Conjuntos de datos y archivos derivados
+bird_or_not/
+woman_or_man/
+bird.jpg
+forest.jpg

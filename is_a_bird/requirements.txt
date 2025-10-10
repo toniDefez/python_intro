@@ -1,0 +1,5 @@
+# Dependencias especificas para experimentos con imagenes
+ddgs
+fastdownload
+fastai
+matplotlib
