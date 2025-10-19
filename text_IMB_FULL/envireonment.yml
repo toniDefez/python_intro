@@ -1,0 +1,16 @@
+name: pytorch
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - ipykernel
+  - pip
+  - pip:
+    - fastai
+    - jupyter
